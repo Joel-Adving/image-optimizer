@@ -1,0 +1,11 @@
+**/.vscode/**
+**/bin/**
+**/obj/**
+
+**/publish/**
+**/dist/**
+
+*.log
+*.tmp
+*.swp
+*.lock
