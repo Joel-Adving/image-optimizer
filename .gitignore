@@ -1,11 +1,13 @@
-**/.vscode/**
-**/bin/**
-**/obj/**
+.vscode/**
+bin/**
+obj/**
 
-**/publish/**
-**/dist/**
+publish/**
+dist/**
 
 *.log
 *.tmp
 *.swp
 *.lock
+
+cache/**
